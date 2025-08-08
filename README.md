@@ -40,6 +40,3 @@ My core expertise lies in **RTL design using Verilog/SystemVerilog**, **digital 
 ![](https://github-contributor-stats.vercel.app/api?username=Srikar109755&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
 
 ---
-
-## 📈 Profile Visits
-[![](https://visitcount.itsvg.in/api?id=Srikar109755&icon=5&color=0)](https://visitcount.itsvg.in)
